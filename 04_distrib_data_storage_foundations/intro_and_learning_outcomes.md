@@ -13,4 +13,5 @@ At the conclusion of this module, you should be able to:
 - Explain how leader-based replication works
 - Identify the purpose of data partitioning
 - Discuss the limitations of mod N hashing and the benefits of consistent hashing
+- Understand best practices and challenges of schema evolution
 - Progress toward executing an end-to-end predictive modeling project using a large dataset
