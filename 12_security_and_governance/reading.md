@@ -13,4 +13,6 @@ Discussion Questions:
 
 2. AWS Blog Post: [Catalog and govern Amazon Athena federated queries with Amazon SageMaker Lakehouse](https://aws.amazon.com/blogs/big-data/catalog-and-govern-amazon-athena-federated-queries-with-amazon-sagemaker-lakehouse/?utm_source=chatgpt.com)
 
+Note: the demo portion can be skimmed
+
 
